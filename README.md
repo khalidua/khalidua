@@ -2,10 +2,10 @@
 <h3 align="center">Computer Science & AI Student | Software Engineer</h3>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kh522004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/khalidmodev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </p>
