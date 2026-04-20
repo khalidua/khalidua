@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khalid Mohamed 👨‍💻🚀</h1>
-<h3 align="center">Computer Science & AI Student | Software Engineer | ML Enthusiast</h3>
+<h3 align="center">Computer Science & AI Student | Software Engineer</h3>
 
 <p align="center">
   <a href="mailto:your-email@example.com">
