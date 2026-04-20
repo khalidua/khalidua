@@ -1,83 +1,67 @@
-<h1 align="center">Hi, I'm Khalid Mohamed 👨‍💻🚀</h1>
-<h3 align="center">Computer Science & AI Student | Software Engineer</h3>
+<h1 align="center">Hi, I'm Khalid Mohamed 👨‍💻</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="mailto:kh522004@gmail.com">
+  <a href="mailto:kh.mohamed.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/khalidmodev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/khalidmodev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/khalidua">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<div align="left">
-<fieldset style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👨‍💻 About Me</h3></legend>
+---
 
-  <em>
-I am a Computer Science student specializing in <strong>Artificial Intelligence</strong> at <strong>Zewail City of Science and Technology</strong> (2023–2027).
+### 👨‍💻 About Me
+Computer Science & AI undergraduate at **Zewail City of Science and Technology** (Class of 2027).
 
-I’m passionate about <strong>Software Engineering</strong>, <strong>Machine Learning</strong>, and <strong>Cybersecurity</strong>. I enjoy building scalable systems, working with real-world data, and exploring modern technologies in backend development and AI.
-  </em> 
-</fieldset>
-</div>
+I specialize in **Software Engineering**, with strong foundations in:
+- Data Structures & Algorithms  
+- Object-Oriented Design  
+- Scalable Web Applications  
 
-<br>
+I enjoy building **real-world systems**, working with **data-driven solutions**, and collaborating in **agile teams** to deliver impactful software.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> 
-  <b><i>Technologies & Skills</i></b> 
-</div>
+---
 
-<br>
+### 🧠 Technical Skills
 
-<p align="center">
-   <kbd>
-    <kbd>Programming</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </kbd>
+#### 💻 Programming Languages
+`C++` `C#` `C` `Python` `JavaScript` `HTML` `CSS`
 
-  <kbd>
-    <kbd>Web</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
+#### 🌐 Web Development
+`React` `Flask` `ASP.NET` `FastAPI` `Bootstrap` `REST APIs`
 
-  <kbd>
-    <kbd>Tools & Tech</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </kbd>
+#### 🧠 Machine Learning & Data
+`scikit-learn` `Pandas` `NumPy`  
+Feature Engineering • Model Evaluation • Data Analysis
 
-  <kbd>
-    <kbd>Interests</kbd>
-    <br><br>
-    🧠 Machine Learning <br>
-    🔐 Cybersecurity <br>
-    🌐 Backend Development
-  </kbd>
-</p>
+#### 🗄️ Databases
+`SQL` `Entity Framework` `ADO.NET`
 
-<br>
+#### ⚙️ Tools & Platforms
+`Git` `GitHub` `Docker` `Azure` `Postman`  
+`VS Code` `Visual Studio`
 
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7"/>
-  </a>
-</div>
+#### 🧩 Concepts
+OOP • SOLID Principles • Design Patterns  
+Agile/Scrum • UI/UX Design
 
-<br>
+---
 
-- 📫 Contact: **your-email@example.com**
+### 🎓 Education
+**B.Sc. in Computational Science & Artificial Intelligence**  
+Zewail City of Science and Technology (2023 – 2027)  
+📍 Giza, Egypt  
+
+---
+
+### 📫 Contact
+- 📧 kh.mohamed.dev@gmail.com  
+- 🔗 https://linkedin.com/in/khalidmodev  
+- 💻 https://github.com/khalidua
