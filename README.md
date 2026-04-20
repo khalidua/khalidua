@@ -17,7 +17,7 @@
   <legend align="left"><h3>👨‍💻 About Me</h3></legend>
 
   <em>
-I am a Computer Science student specializing in <strong>Artificial Intelligence</strong> at <strong>Zewail City of Science and Technology</strong> (2023–2027), with a GPA of <strong>3.88</strong>.
+I am a Computer Science student specializing in <strong>Artificial Intelligence</strong> at <strong>Zewail City of Science and Technology</strong> (2023–2027).
 
 I’m passionate about <strong>Software Engineering</strong>, <strong>Machine Learning</strong>, and <strong>Cybersecurity</strong>. I enjoy building scalable systems, working with real-world data, and exploring modern technologies in backend development and AI.
   </em> 
